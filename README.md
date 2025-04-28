@@ -108,9 +108,11 @@ Each function is converted into a sequence of token IDs using a vocabulary extra
 ## 📈 Visualizations
 - PCA (Principal Component Analysis) applied to CNN features to visualize feature separation between vulnerable and non-vulnerable samples.
 - Confusion matrices and ROC curves generated for model evaluation.
-<img src ="CNN acc and loss pic.png>
-<img src = "CNN hyper pic.png>
-<img src = "CNNRF pic.png>
+<img src ="CNN acc and loss pic.png">
+
+<img src = "CNN hyper pic.png">
+
+<img src = "CNNRF pic.png">
 ---
 
 ## 🧠 Future Work
